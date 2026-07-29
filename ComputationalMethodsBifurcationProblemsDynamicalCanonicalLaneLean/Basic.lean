@@ -1,0 +1,2 @@
+import ComputationalMethodsBifurcationProblemsDynamicalCanonicalLaneLean.GateLemmas
+import ComputationalMethodsBifurcationProblemsDynamicalCanonicalLaneLean.FinalTheorem
